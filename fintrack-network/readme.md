@@ -58,4 +58,5 @@
 
 * **Private Google Access on for Private subnets**
 
-
+### Diagram
+![Rough System Diagram](https://static-cdn.dhairyashah.dev/imgs/static/cloud/gcp/fintrack-diagram.jpg)
